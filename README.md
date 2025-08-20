@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @NikhilsHub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-NikhilsHub/NikhilsHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hey there, I'm Nikhil Kumar
+
+- A passionate DevOps & ML enthusiast from India. I love building automation tools, Dockerized workflows, and data-driven projects.
+
+
+## Tech Stack
+- Languages: Python, C++, Java, Bash
+- Web: HTML, CSS, JavaScript
+- Cloud & DevOps: Docker, Kubernetes, GitHub Actions, AWS (Basics)
+- Databases: MySQL, MongoDB
+- Tools: Git, Linux, VS Code
+
